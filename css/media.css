@@ -1,0 +1,106 @@
+@media(max-width:992px){
+    .about-text{
+        padding-top: 20px !important;
+    }
+    .about-text h3{
+        font-size: 35px;
+    }
+
+    .pre-container{
+        width: 90%;
+    }
+    .book-container{
+        width: 95%;
+    }
+    .testimony-container{
+        width: 90%;
+    }
+    .footer-container{
+        width: 90%;
+    }
+
+/* --about page-- */
+
+    #about1{
+        height: 350px;
+    }
+    .let-container{
+        width: 90%;
+    }
+    .sit-container{
+        width: 90%;
+    }
+
+    /* --service-- */
+
+    #about3{
+        height: 350px;
+    }
+
+
+
+}
+
+
+
+@media(max-width:768px){
+    .book-box h3{
+        font-size: 38px;
+    }
+    .testimony-container{
+        width: 95%;
+    }
+    .media-text h4{
+        font-size: 18px;
+    }
+    .media-text{
+        left: 27%;
+    }
+
+    .footer-box2{
+        padding-left: 0;
+    }
+    .social{
+        padding-left: 0;
+    }
+
+
+/* --about page-- */
+
+    #about1{
+        height: 300px;
+    }
+
+
+
+
+
+    /* --service-- */
+
+    .price-container{
+        width: 95%;
+    }
+}
+
+
+@media(max-width:480px){
+    .book-container{
+        width: 96%;
+    }
+    .carousel-inner img{
+        height: 100vh;
+    }
+
+    .media img{
+        width: 80px;
+        height: 80px;
+    }
+
+    /* --about page-- */ 
+
+    .about1-container h4{
+        padding-top: 30%;
+    }
+
+
+}
